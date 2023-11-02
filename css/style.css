@@ -95,6 +95,9 @@
     color: #ACACAC;
     font-weight: 200;
 }
+.img-fluid {
+    border-radius: 20px;
+}
 
 
 /* Testimonial */
